@@ -7,6 +7,7 @@ public class GitTestController {
 
 	public String checkStr() {
 		return "점심 언제먹지?";
+	}
 
 	public void test2() {
 		
